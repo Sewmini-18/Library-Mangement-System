@@ -1,3 +1,3 @@
 # Library-Mangement-System
 #Sewmini-18/Simple-Library-Management-System
-Simple Java Project with sql
+Simple Netbeans Java Project with sql  
